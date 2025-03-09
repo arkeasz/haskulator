@@ -6,7 +6,7 @@ cabal-version: 2.2
 
 name:           haskulator
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/haskulator#readme>
+description:    Please see the README on GitHub at <https://github.com/arkeasz/haskulator#readme>
 homepage:       https://github.com/githubuser/haskulator#readme
 bug-reports:    https://github.com/githubuser/haskulator/issues
 author:         Author name here
